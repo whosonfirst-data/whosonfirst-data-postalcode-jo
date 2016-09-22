@@ -9,6 +9,7 @@
     "geom:latitude":0.0,
     "geom:longitude":0.0,
     "iso:country":"JO",
+    "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         102191569,
@@ -30,10 +31,11 @@
         }
     ],
     "wof:id":437275633,
-    "wof:lastmodified":1459822094,
+    "wof:lastmodified":1474577152,
     "wof:name":"61173",
     "wof:parent_id":"85672661",
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-jo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
